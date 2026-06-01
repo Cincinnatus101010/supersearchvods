@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+
+# Transcript cache (SUPERSEARCH_CACHE_DIR or default ~/.supersearch/transcripts)
+.supersearch/
+transcripts/
+
+*.py[cod]
+.env
+.ruff_cache/
+.pytest_cache/
+dist/
+*.egg-info/
+supersearch.egg-info/
+build/
